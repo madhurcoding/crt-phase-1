@@ -1,0 +1,1 @@
+    cout<<"Area of reactangle: "<<obj.area(3,2);
